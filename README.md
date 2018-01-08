@@ -1,1 +1,1 @@
-Repo zawierające ćwiczenia robione z domu.
+Repo zawierające ćwiczenia robione w domu.
